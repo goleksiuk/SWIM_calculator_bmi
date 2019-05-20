@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="main_menu_about_me">About Me</string>
+    <string name="main_menu_change_units">Change Units</string>
+    <string name="main_menu_recycler_view">History</string>
+    <string name="main_units_weight_kg">Weight [kg]</string>
+    <string name="main_units_weight_lb">Weight [lb]</string>
+    <string name="main_units_height_cm">Height [cm]</string>
+    <string name="main_units_height_in">Height [in]</string>
+    <string name="main_calculate">Calculate</string>
+
+    <string name="global_underweight">Underweight</string>
+    <string name="global_normal">Normal</string>
+    <string name="global_overweight">Overweight</string>
+    <string name="global_obese">Obese</string>
+    <string name="global_extremely_obese">Extremely Obese</string>
+    <string name="global_temporary">---</string>
+    <string name="global_hint_number">00</string>
+
+    <string name="info_desc_underweight">UNDERWEIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
+        tempus enim mauris, interdum pulvinar nisi euismod non. Sed porta scelerisque faucibus. Sed egestas ullamcorper
+        diam, eget facilisis metus mattis in. Mauris viverra fringilla arcu eu congue. Vestibulum non nibh a purus
+        vestibulum aliquet. Proin eu mauris quis dui volutpat vestibulum.
+    </string>
+    <string name="info_desc_normal">NORMAL. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempus enim
+        mauris, interdum pulvinar nisi euismod non. Sed porta scelerisque faucibus. Sed egestas ullamcorper diam, eget
+        facilisis metus mattis in. Mauris viverra fringilla arcu eu congue. Vestibulum non nibh a purus vestibulum
+        aliquet. Proin eu mauris quis dui volutpat vestibulum.
+    </string>
+    <string name="info_desc_overweight">OVERWEIGHT. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempus
+        enim mauris, interdum pulvinar nisi euismod non. Sed porta scelerisque faucibus. Sed egestas ullamcorper diam,
+        eget facilisis metus mattis in. Mauris viverra fringilla arcu eu congue. Vestibulum non nibh a purus vestibulum
+        aliquet. Proin eu mauris quis dui volutpat vestibulum.
+    </string>
+    <string name="info_desc_obese">OBESE. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempus enim
+        mauris, interdum pulvinar nisi euismod non. Sed porta scelerisque faucibus. Sed egestas ullamcorper diam, eget
+        facilisis metus mattis in. Mauris viverra fringilla arcu eu congue. Vestibulum non nibh a purus vestibulum
+        aliquet. Proin eu mauris quis dui volutpat vestibulum.
+    </string>
+    <string name="info_desc_extremely_obese">EXTREMELY OBESE. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nam tempus enim mauris, interdum pulvinar nisi euismod non. Sed porta scelerisque faucibus. Sed egestas
+        ullamcorper diam, eget facilisis metus mattis in. Mauris viverra fringilla arcu eu congue. Vestibulum non nibh a
+        purus vestibulum aliquet. Proin eu mauris quis dui volutpat vestibulum.
+    </string>
+
+    <string name="about_me_welcome">Hello, I am BMI calculator!</string>
+    <string name="about_me_introduction">I can count in various units!</string>
+    <string name="about_me_units_kilograms">Kilograms</string>
+    <string name="about_me_units_centimeters">Centimeters</string>
+    <string name="about_me_units_pounds">Pounds</string>
+    <string name="about_me_units_inches">Inches</string>
+
+    <string name="item_date_label">Date:</string>
+    <string name="item_weight_label">Weight:</string>
+    <string name="item_height_label">Height:</string>
+    <string name="item_bmi_label">BMI:</string>
+</resources>

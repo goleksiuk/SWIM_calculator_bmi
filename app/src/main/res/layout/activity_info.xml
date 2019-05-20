@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".InfoActivity">
+
+    <ImageView
+            android:id="@+id/bmiIV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/normal"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/info_margin_top"
+    />
+    <TextView
+            android:id="@+id/bmiTV"
+            android:text="@string/global_temporary"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/bmiIV"
+            android:layout_marginStart="@dimen/info_margin_elements"
+            android:layout_marginTop="@dimen/info_margin_elements"
+    />
+    <TextView
+            android:id="@+id/bmiDescTV"
+            android:text="@string/global_temporary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_below="@id/bmiIV"
+            android:layout_marginTop="@dimen/info_margin_elements"
+            android:layout_marginStart="@dimen/info_margin_sides"
+            android:layout_marginEnd="@dimen/info_margin_sides"
+    />
+</RelativeLayout>

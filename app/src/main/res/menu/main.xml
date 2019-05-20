@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/about_me"
+            android:title="@string/main_menu_about_me"
+    />
+    <item
+            android:id="@+id/change_units"
+            android:title="@string/main_menu_change_units"
+    />
+    <item
+            android:id="@+id/recycler_view"
+            android:title="@string/main_menu_recycler_view"
+    />
+</menu>

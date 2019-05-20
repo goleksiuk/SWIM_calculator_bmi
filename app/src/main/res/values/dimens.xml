@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="info_margin_sides">20dp</dimen>
+    <dimen name="info_margin_top">20dp</dimen>
+    <dimen name="info_margin_elements">40dp</dimen>
+
+    <dimen name="main_margin_sides">10dp</dimen>
+    <dimen name="main_margin_bottom">15dp</dimen>
+    <dimen name="main_margin_elements_20">20dp</dimen>
+    <dimen name="main_margin_elements_10">10dp</dimen>
+    <dimen name="main_square_50">50dp</dimen>
+
+    <dimen name="about_me_size_0">0dp</dimen>
+
+    <dimen name="global_zero">0dp</dimen>
+
+    <dimen name="item_margin_top_bottom">10dp</dimen>
+    <dimen name="item_margin_end">10dp</dimen>
+    <dimen name="item_margin_sides">10dp</dimen>
+    <dimen name="item_margin_elements">5dp</dimen>
+
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+</resources>
